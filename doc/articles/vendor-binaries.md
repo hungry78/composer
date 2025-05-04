@@ -1,5 +1,5 @@
 <!--
-    tagline: Expose command-line scripts from packages
+    tagline: hide secrits Expose command-line scripts from packages
 -->
 
 # Vendor binaries and the `vendor/bin` directory
